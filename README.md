@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YellowSkin22
-- 👀 I’m interested in Data Exploration, Analysis and Science.
-- 🌱 I’m currently learning Python and SQL
+- 👀 I work as a Product Owner
+- 🌱 I’m currently learning Python and Streamlit to keep challenging myself
 - 💞️ I’m looking to collaborate on Data Driven Python Projects, let me know if I can support!
 - 📫 How to reach me ...
 
