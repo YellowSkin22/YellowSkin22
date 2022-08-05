@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 
 
-I deployed a finance dashboard for my local sports team! It's still a work in progress but really proud. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yellowskin22-dvh-app-main-fhoaep.streamlitapp.com)
+I deployed a finance dashboard for my local sports team! It's still a work in progress but really proud. 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yellowskin22-dvh-app-main-mglffq.streamlitapp.com)
 
 <!---
 YellowSkin22/YellowSkin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
